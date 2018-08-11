@@ -1,0 +1,1723 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:1625): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:1625): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+WARN: 拒绝连接
+java.net.ConnectException: 拒绝连接
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.intellij.idea.SocketLock.a(SocketLock.java:183)
+	at com.intellij.idea.SocketLock.access$300(SocketLock.java:50)
+	at com.intellij.idea.SocketLock$2.call(SocketLock.java:124)
+	at com.intellij.idea.SocketLock$2.call(SocketLock.java:113)
+	at com.intellij.idea.SocketLock.a(SocketLock.java:156)
+	at com.intellij.idea.SocketLock.lock(SocketLock.java:113)
+	at com.intellij.idea.StartupUtil.a(StartupUtil.java:263)
+	at com.intellij.idea.StartupUtil.prepareAndStart(StartupUtil.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.idea.MainImpl.start(MainImpl.java:36)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.ide.plugins.PluginManager$2.run(PluginManager.java:90)
+	at java.lang.Thread.run(Thread.java:745)
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[  12076]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[2126633]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[2126634]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: build for id: gradle.compiler 
+[2136412]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[156754521]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="https://confluence.jetbrains.com/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:2185): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:2185): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+WARN: 拒绝连接
+java.net.ConnectException: 拒绝连接
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.intellij.idea.SocketLock.a(SocketLock.java:183)
+	at com.intellij.idea.SocketLock.access$300(SocketLock.java:50)
+	at com.intellij.idea.SocketLock$2.call(SocketLock.java:124)
+	at com.intellij.idea.SocketLock$2.call(SocketLock.java:113)
+	at com.intellij.idea.SocketLock.a(SocketLock.java:156)
+	at com.intellij.idea.SocketLock.lock(SocketLock.java:113)
+	at com.intellij.idea.StartupUtil.a(StartupUtil.java:263)
+	at com.intellij.idea.StartupUtil.prepareAndStart(StartupUtil.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.idea.MainImpl.start(MainImpl.java:36)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.ide.plugins.PluginManager$2.run(PluginManager.java:90)
+	at java.lang.Thread.run(Thread.java:745)
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[  13487]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[2266076]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="https://confluence.jetbrains.com/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[2384449]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[2384450]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: build for id: gradle.compiler 
+[3322443]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[3322444]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: build for id: gradle.compiler 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[5200279]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[5200280]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: build for id: gradle.compiler 
+[5429857]  ERROR - tory.GitDiffFromHistoryHandler - Could not find parent revision. Will use the path from parent revision. Current revision: shiro-app-main.xml:db693091, parent hash: 5fbd653a8c653141df5a2bb6277895b4e51139b0 
+java.lang.Throwable
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:115)
+	at git4idea.history.GitDiffFromHistoryHandler.createParentRevision(GitDiffFromHistoryHandler.java:226)
+	at git4idea.history.GitDiffFromHistoryHandler.findParentRevisions(GitDiffFromHistoryHandler.java:201)
+	at git4idea.history.GitDiffFromHistoryHandler.access$400(GitDiffFromHistoryHandler.java:68)
+	at git4idea.history.GitDiffFromHistoryHandler$2.run(GitDiffFromHistoryHandler.java:174)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:563)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$2.run(CoreProgressManager.java:142)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:446)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:392)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:127)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$1.run(ProgressManagerImpl.java:126)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:366)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.jetbrains.ide.PooledThreadExecutor$1$1.run(PooledThreadExecutor.java:55)
+[5429858]  ERROR - tory.GitDiffFromHistoryHandler - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[5429858]  ERROR - tory.GitDiffFromHistoryHandler - JDK: 1.8.0_73 
+[5429858]  ERROR - tory.GitDiffFromHistoryHandler - VM: Java HotSpot(TM) 64-Bit Server VM 
+[5429858]  ERROR - tory.GitDiffFromHistoryHandler - Vendor: Oracle Corporation 
+[5429858]  ERROR - tory.GitDiffFromHistoryHandler - OS: Linux 
+[5668521]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[5668522]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: build for id: gradle.compiler 
+[5685865]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[5685865]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: build for id: gradle.compiler 
+[5703204]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:15626): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:15626): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[   7239]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="https://confluence.jetbrains.com/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[   9962]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[ 231815]   WARN - en.execution.MavenResumeAction - Invalid project building order. Defined order: [gamebox, common, fserver, monitor, monitor-iservice, monitor-client, model, iservice, data, apireceive, service, schedule, webcommon, websites, mcenter, boss, pcenter, ccenter, msites, mdcenter, acenter, tcenter, mobile, monitor-process, monitor-collector, monitor-service, monitor-aopclient, tools, service-api], error index: 17, invalid line: [INFO] Building msites 1.0.0-SNAPSHOT 
+java.lang.Exception
+	at org.jetbrains.idea.maven.execution.MavenResumeAction.log(MavenResumeAction.java:273)
+	at org.jetbrains.idea.maven.execution.MavenResumeAction.access$300(MavenResumeAction.java:50)
+	at org.jetbrains.idea.maven.execution.MavenResumeAction$1.onTextAvailable(MavenResumeAction.java:163)
+	at sun.reflect.GeneratedMethodAccessor34.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.execution.process.ProcessHandler$4.invoke(ProcessHandler.java:214)
+	at com.sun.proxy.$Proxy14.onTextAvailable(Unknown Source)
+	at com.intellij.execution.process.ProcessHandler.notifyTextAvailable(ProcessHandler.java:188)
+	at com.intellij.execution.process.BaseOSProcessHandler$SimpleOutputReader.onTextAvailable(BaseOSProcessHandler.java:262)
+	at com.intellij.util.io.BaseOutputReader.sendLine(BaseOutputReader.java:131)
+	at com.intellij.util.io.BaseOutputReader.processLine(BaseOutputReader.java:125)
+	at com.intellij.util.io.BaseOutputReader.readAvailableNonBlocking(BaseOutputReader.java:73)
+	at com.intellij.util.io.BaseOutputReader.readAvailable(BaseOutputReader.java:137)
+	at com.intellij.util.io.BaseDataReader.doRun(BaseDataReader.java:108)
+	at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:45)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:366)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.jetbrains.ide.PooledThreadExecutor$1$1.run(PooledThreadExecutor.java:55)
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[ 265901]   WARN - en.execution.MavenResumeAction - Invalid project building order. Defined order: [gamebox, common, fserver, monitor, monitor-iservice, monitor-client, model, iservice, data, apireceive, service, schedule, webcommon, websites, mcenter, boss, pcenter, ccenter, msites, mdcenter, acenter, tcenter, mobile, monitor-process, monitor-collector, monitor-service, monitor-aopclient, tools, service-api], error index: 4, invalid line: [INFO] Building monitor-client 1.0.0-SNAPSHOT 
+java.lang.Exception
+	at org.jetbrains.idea.maven.execution.MavenResumeAction.log(MavenResumeAction.java:273)
+	at org.jetbrains.idea.maven.execution.MavenResumeAction.access$300(MavenResumeAction.java:50)
+	at org.jetbrains.idea.maven.execution.MavenResumeAction$1.onTextAvailable(MavenResumeAction.java:163)
+	at sun.reflect.GeneratedMethodAccessor34.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.execution.process.ProcessHandler$4.invoke(ProcessHandler.java:214)
+	at com.sun.proxy.$Proxy14.onTextAvailable(Unknown Source)
+	at com.intellij.execution.process.ProcessHandler.notifyTextAvailable(ProcessHandler.java:188)
+	at com.intellij.execution.process.BaseOSProcessHandler$SimpleOutputReader.onTextAvailable(BaseOSProcessHandler.java:262)
+	at com.intellij.util.io.BaseOutputReader.sendLine(BaseOutputReader.java:131)
+	at com.intellij.util.io.BaseOutputReader.processLine(BaseOutputReader.java:125)
+	at com.intellij.util.io.BaseOutputReader.readAvailableNonBlocking(BaseOutputReader.java:73)
+	at com.intellij.util.io.BaseOutputReader.readAvailable(BaseOutputReader.java:137)
+	at com.intellij.util.io.BaseDataReader.doRun(BaseDataReader.java:108)
+	at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:45)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:366)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.jetbrains.ide.PooledThreadExecutor$1$1.run(PooledThreadExecutor.java:55)
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[9731514]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[9830848]   WARN - en.execution.MavenResumeAction - Invalid project building order. Defined order: [gamebox, common, fserver, monitor, monitor-iservice, monitor-client, model, iservice, data, apireceive, service, schedule, webcommon, websites, mcenter, boss, pcenter, ccenter, msites, mdcenter, acenter, tcenter, mobile, monitor-process, monitor-collector, monitor-service, monitor-aopclient, tools, service-api], error index: 10, invalid line: [INFO] Building schedule 1.0.0-SNAPSHOT 
+java.lang.Exception
+	at org.jetbrains.idea.maven.execution.MavenResumeAction.log(MavenResumeAction.java:273)
+	at org.jetbrains.idea.maven.execution.MavenResumeAction.access$300(MavenResumeAction.java:50)
+	at org.jetbrains.idea.maven.execution.MavenResumeAction$1.onTextAvailable(MavenResumeAction.java:163)
+	at sun.reflect.GeneratedMethodAccessor34.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.execution.process.ProcessHandler$4.invoke(ProcessHandler.java:214)
+	at com.sun.proxy.$Proxy14.onTextAvailable(Unknown Source)
+	at com.intellij.execution.process.ProcessHandler.notifyTextAvailable(ProcessHandler.java:188)
+	at com.intellij.execution.process.BaseOSProcessHandler$SimpleOutputReader.onTextAvailable(BaseOSProcessHandler.java:262)
+	at com.intellij.util.io.BaseOutputReader.sendLine(BaseOutputReader.java:131)
+	at com.intellij.util.io.BaseOutputReader.processLine(BaseOutputReader.java:125)
+	at com.intellij.util.io.BaseOutputReader.readAvailableNonBlocking(BaseOutputReader.java:73)
+	at com.intellij.util.io.BaseOutputReader.readAvailable(BaseOutputReader.java:137)
+	at com.intellij.util.io.BaseDataReader.doRun(BaseDataReader.java:108)
+	at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:45)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:366)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.jetbrains.ide.PooledThreadExecutor$1$1.run(PooledThreadExecutor.java:55)
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[14462455]   WARN - en.execution.MavenResumeAction - Invalid project building order. Defined order: [gamebox, common, fserver, monitor, monitor-iservice], error index: 5, invalid line: [INFO] Building monitor-client 1.0.0-SNAPSHOT 
+java.lang.Exception
+	at org.jetbrains.idea.maven.execution.MavenResumeAction.log(MavenResumeAction.java:273)
+	at org.jetbrains.idea.maven.execution.MavenResumeAction.access$300(MavenResumeAction.java:50)
+	at org.jetbrains.idea.maven.execution.MavenResumeAction$1.onTextAvailable(MavenResumeAction.java:163)
+	at sun.reflect.GeneratedMethodAccessor34.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.execution.process.ProcessHandler$4.invoke(ProcessHandler.java:214)
+	at com.sun.proxy.$Proxy14.onTextAvailable(Unknown Source)
+	at com.intellij.execution.process.ProcessHandler.notifyTextAvailable(ProcessHandler.java:188)
+	at com.intellij.execution.process.BaseOSProcessHandler$SimpleOutputReader.onTextAvailable(BaseOSProcessHandler.java:262)
+	at com.intellij.util.io.BaseOutputReader.sendLine(BaseOutputReader.java:131)
+	at com.intellij.util.io.BaseOutputReader.processLine(BaseOutputReader.java:125)
+	at com.intellij.util.io.BaseOutputReader.readAvailableNonBlocking(BaseOutputReader.java:73)
+	at com.intellij.util.io.BaseOutputReader.readAvailable(BaseOutputReader.java:137)
+	at com.intellij.util.io.BaseDataReader.doRun(BaseDataReader.java:108)
+	at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:45)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:366)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.jetbrains.ide.PooledThreadExecutor$1$1.run(PooledThreadExecutor.java:55)
+[14588251]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:1759): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:1759): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[  16637]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[ 533178]   WARN - en.execution.MavenResumeAction - Invalid project building order. Defined order: [gamebox, common, fserver, monitor, monitor-iservice, monitor-client, model, iservice, data, apireceive, service, schedule, webcommon, websites, mcenter, boss, pcenter, ccenter, msites, mdcenter, acenter, tcenter, mobile, monitor-process, monitor-collector, monitor-service, monitor-aopclient, tools, service-api], error index: 5, invalid line: [INFO] Building model 1.0.0-SNAPSHOT 
+java.lang.Exception
+	at org.jetbrains.idea.maven.execution.MavenResumeAction.log(MavenResumeAction.java:273)
+	at org.jetbrains.idea.maven.execution.MavenResumeAction.access$300(MavenResumeAction.java:50)
+	at org.jetbrains.idea.maven.execution.MavenResumeAction$1.onTextAvailable(MavenResumeAction.java:163)
+	at sun.reflect.GeneratedMethodAccessor65.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.execution.process.ProcessHandler$4.invoke(ProcessHandler.java:214)
+	at com.sun.proxy.$Proxy14.onTextAvailable(Unknown Source)
+	at com.intellij.execution.process.ProcessHandler.notifyTextAvailable(ProcessHandler.java:188)
+	at com.intellij.execution.process.BaseOSProcessHandler$SimpleOutputReader.onTextAvailable(BaseOSProcessHandler.java:262)
+	at com.intellij.util.io.BaseOutputReader.sendLine(BaseOutputReader.java:131)
+	at com.intellij.util.io.BaseOutputReader.processLine(BaseOutputReader.java:125)
+	at com.intellij.util.io.BaseOutputReader.readAvailableNonBlocking(BaseOutputReader.java:73)
+	at com.intellij.util.io.BaseOutputReader.readAvailable(BaseOutputReader.java:137)
+	at com.intellij.util.io.BaseDataReader.doRun(BaseDataReader.java:108)
+	at com.intellij.util.io.BaseDataReader$1.run(BaseDataReader.java:45)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:366)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.jetbrains.ide.PooledThreadExecutor$1$1.run(PooledThreadExecutor.java:55)
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[2170466]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[2170467]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: build for id: gradle.compiler 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[6386887]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="https://confluence.jetbrains.com/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:1674): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:1674): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+WARN: 拒绝连接
+java.net.ConnectException: 拒绝连接
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.intellij.idea.SocketLock.a(SocketLock.java:183)
+	at com.intellij.idea.SocketLock.access$300(SocketLock.java:50)
+	at com.intellij.idea.SocketLock$2.call(SocketLock.java:124)
+	at com.intellij.idea.SocketLock$2.call(SocketLock.java:113)
+	at com.intellij.idea.SocketLock.a(SocketLock.java:156)
+	at com.intellij.idea.SocketLock.lock(SocketLock.java:113)
+	at com.intellij.idea.StartupUtil.a(StartupUtil.java:263)
+	at com.intellij.idea.StartupUtil.prepareAndStart(StartupUtil.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.idea.MainImpl.start(MainImpl.java:36)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.ide.plugins.PluginManager$2.run(PluginManager.java:90)
+	at java.lang.Thread.run(Thread.java:745)
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[  15747]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[220025514]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="https://confluence.jetbrains.com/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[232680829]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[232680830]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: build for id: gradle.compiler 
+[232735854]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:31980): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:31980): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[  11114]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="https://confluence.jetbrains.com/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[  18197]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[1661268]   WARN - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+[10758034]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:1993): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:1993): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[  15327]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[6586953]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="https://confluence.jetbrains.com/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+[22774394]   WARN - netty.channel.nio.NioEventLoop - Selector.select() returned prematurely 512 times in a row; rebuilding selector. 
+[39043646]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: editor for id: editor.preferences.import 
+[39043652]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: build for id: gradle.compiler 
+[45586800]   WARN - enapi.wm.impl.IdeGlassPaneImpl - Root pane is null. Event: java.awt.event.MouseEvent[MOUSE_EXITED,(-404,23),absolute(883,319),button=0,modifiers=Ctrl,extModifiers=Ctrl,clickCount=0] on win152 
+[88150438]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[88150527]   WARN - ution.rmi.RemoteProcessSupport - Exception in thread "main" java.lang.ClassNotFoundException: org.postgresql.Driver 
+[88150527]   WARN - ution.rmi.RemoteProcessSupport - at java.net.URLClassLoader.findClass(URLClassLoader.java:381) 
+[88150527]   WARN - ution.rmi.RemoteProcessSupport - at java.lang.ClassLoader.loadClass(ClassLoader.java:424) 
+[88150527]   WARN - ution.rmi.RemoteProcessSupport - at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331) 
+[88150527]   WARN - ution.rmi.RemoteProcessSupport - at java.lang.ClassLoader.loadClass(ClassLoader.java:357) 
+[88150527]   WARN - ution.rmi.RemoteProcessSupport - at java.lang.Class.forName0(Native Method) 
+[88150527]   WARN - ution.rmi.RemoteProcessSupport - at java.lang.Class.forName(Class.java:264) 
+[88150527]   WARN - ution.rmi.RemoteProcessSupport - at com.intellij.database.remote.RemoteJdbcServer.main(RemoteJdbcServer.java:15) 
+[91334334]   WARN - enapi.wm.impl.IdeGlassPaneImpl - Root pane is null. Event: java.awt.event.MouseEvent[MOUSE_EXITED,(638,50),absolute(1022,284),button=0,modifiers=Ctrl,extModifiers=Ctrl,clickCount=0] on win287 
+[91338613]  ERROR - enapi.editor.impl.DocumentImpl - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at com.intellij.openapi.editor.impl.EditorComponentImpl.fireResized(EditorComponentImpl.java:132)
+	at com.intellij.openapi.editor.impl.EditorImpl.validateSize(EditorImpl.java:2022)
+	at com.intellij.openapi.editor.impl.EditorImpl.a(EditorImpl.java:1921)
+	at com.intellij.openapi.editor.impl.EditorImpl.access$14600(EditorImpl.java:125)
+	at com.intellij.openapi.editor.impl.EditorImpl$EditorDocumentAdapter.documentChanged(EditorImpl.java:6604)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:757)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:696)
+	at com.intellij.openapi.editor.impl.DocumentImpl.deleteString(DocumentImpl.java:475)
+	at com.intellij.openapi.editor.actions.BackspaceAction.a(BackspaceAction.java:84)
+	at com.intellij.openapi.editor.actions.BackspaceAction.access$100(BackspaceAction.java:36)
+	at com.intellij.openapi.editor.actions.BackspaceAction$Handler.executeWriteAction(BackspaceAction.java:55)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:222)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.handleBackspace(BackspaceHandler.java:105)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.executeWriteAction(BackspaceHandler.java:61)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3$1.perform(EditorActionHandler.java:206)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.access$000(EditorActionHandler.java:38)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3.perform(EditorActionHandler.java:203)
+	at com.intellij.openapi.editor.impl.CaretModelImpl$3.run(CaretModelImpl.java:342)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.doWithCaretMerging(CaretModelImpl.java:422)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:333)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:324)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:200)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler$1.run(BackspaceHandler.java:60)
+	at com.intellij.codeInsight.lookup.impl.LookupOffsets.performGuardedChange(LookupOffsets.java:128)
+	at com.intellij.codeInsight.lookup.impl.LookupImpl.performGuardedChange(LookupImpl.java:604)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.truncatePrefix(BackspaceHandler.java:57)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.doExecute(BackspaceHandler.java:48)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$4.perform(EditorActionHandler.java:217)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:214)
+	at com.intellij.openapi.editor.actionSystem.EditorAction$1.run(EditorAction.java:98)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:83)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$3.performAction(IdeKeyEventDispatcher.java:595)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:646)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.a(IdeKeyEventDispatcher.java:485)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:215)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:622)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91338618]  ERROR - enapi.editor.impl.DocumentImpl - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91338618]  ERROR - enapi.editor.impl.DocumentImpl - JDK: 1.8.0_73 
+[91338619]  ERROR - enapi.editor.impl.DocumentImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91338619]  ERROR - enapi.editor.impl.DocumentImpl - Vendor: Oracle Corporation 
+[91338619]  ERROR - enapi.editor.impl.DocumentImpl - OS: Linux 
+[91338619]  ERROR - enapi.editor.impl.DocumentImpl - Last Action: EditorBackSpace 
+[91338619]  ERROR - enapi.editor.impl.DocumentImpl - Current Command: Backspace 
+[91338629]  ERROR - llij.ide.plugins.PluginManager - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at java.awt.Component.processEvent(Component.java:6315)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at com.intellij.ide.IdeEventQueue.e(IdeEventQueue.java:866)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:654)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91338629]  ERROR - llij.ide.plugins.PluginManager - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91338629]  ERROR - llij.ide.plugins.PluginManager - JDK: 1.8.0_73 
+[91338629]  ERROR - llij.ide.plugins.PluginManager - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91338629]  ERROR - llij.ide.plugins.PluginManager - Vendor: Oracle Corporation 
+[91338629]  ERROR - llij.ide.plugins.PluginManager - OS: Linux 
+[91338629]  ERROR - llij.ide.plugins.PluginManager - Last Action: EditorBackSpace 
+[91338776]  ERROR - enapi.editor.impl.DocumentImpl - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at com.intellij.openapi.editor.impl.EditorComponentImpl.fireResized(EditorComponentImpl.java:132)
+	at com.intellij.openapi.editor.impl.EditorImpl.validateSize(EditorImpl.java:2022)
+	at com.intellij.openapi.editor.impl.EditorImpl.a(EditorImpl.java:1921)
+	at com.intellij.openapi.editor.impl.EditorImpl.access$14600(EditorImpl.java:125)
+	at com.intellij.openapi.editor.impl.EditorImpl$EditorDocumentAdapter.documentChanged(EditorImpl.java:6604)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:757)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:696)
+	at com.intellij.openapi.editor.impl.DocumentImpl.deleteString(DocumentImpl.java:475)
+	at com.intellij.openapi.editor.actions.BackspaceAction.a(BackspaceAction.java:84)
+	at com.intellij.openapi.editor.actions.BackspaceAction.access$100(BackspaceAction.java:36)
+	at com.intellij.openapi.editor.actions.BackspaceAction$Handler.executeWriteAction(BackspaceAction.java:55)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:222)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.handleBackspace(BackspaceHandler.java:105)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.executeWriteAction(BackspaceHandler.java:61)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3$1.perform(EditorActionHandler.java:206)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.access$000(EditorActionHandler.java:38)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3.perform(EditorActionHandler.java:203)
+	at com.intellij.openapi.editor.impl.CaretModelImpl$3.run(CaretModelImpl.java:342)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.doWithCaretMerging(CaretModelImpl.java:422)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:333)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:324)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:200)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler$1.run(BackspaceHandler.java:60)
+	at com.intellij.codeInsight.lookup.impl.LookupOffsets.performGuardedChange(LookupOffsets.java:128)
+	at com.intellij.codeInsight.lookup.impl.LookupImpl.performGuardedChange(LookupImpl.java:604)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.truncatePrefix(BackspaceHandler.java:57)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.doExecute(BackspaceHandler.java:48)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$4.perform(EditorActionHandler.java:217)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:214)
+	at com.intellij.openapi.editor.actionSystem.EditorAction$1.run(EditorAction.java:98)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:83)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$3.performAction(IdeKeyEventDispatcher.java:595)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:646)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.a(IdeKeyEventDispatcher.java:485)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:215)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:622)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91338777]  ERROR - enapi.editor.impl.DocumentImpl - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91338777]  ERROR - enapi.editor.impl.DocumentImpl - JDK: 1.8.0_73 
+[91338777]  ERROR - enapi.editor.impl.DocumentImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91338777]  ERROR - enapi.editor.impl.DocumentImpl - Vendor: Oracle Corporation 
+[91338777]  ERROR - enapi.editor.impl.DocumentImpl - OS: Linux 
+[91338778]  ERROR - enapi.editor.impl.DocumentImpl - Last Action: EditorBackSpace 
+[91338778]  ERROR - enapi.editor.impl.DocumentImpl - Current Command: Backspace 
+[91338784]  ERROR - llij.ide.plugins.PluginManager - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at java.awt.Component.processEvent(Component.java:6315)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at com.intellij.ide.IdeEventQueue.e(IdeEventQueue.java:866)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:654)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91338785]  ERROR - llij.ide.plugins.PluginManager - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91338785]  ERROR - llij.ide.plugins.PluginManager - JDK: 1.8.0_73 
+[91338785]  ERROR - llij.ide.plugins.PluginManager - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91338785]  ERROR - llij.ide.plugins.PluginManager - Vendor: Oracle Corporation 
+[91338785]  ERROR - llij.ide.plugins.PluginManager - OS: Linux 
+[91338785]  ERROR - llij.ide.plugins.PluginManager - Last Action: EditorBackSpace 
+[91338938]  ERROR - enapi.editor.impl.DocumentImpl - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at com.intellij.openapi.editor.impl.EditorComponentImpl.fireResized(EditorComponentImpl.java:132)
+	at com.intellij.openapi.editor.impl.EditorImpl.validateSize(EditorImpl.java:2022)
+	at com.intellij.openapi.editor.impl.EditorImpl.a(EditorImpl.java:1921)
+	at com.intellij.openapi.editor.impl.EditorImpl.access$14600(EditorImpl.java:125)
+	at com.intellij.openapi.editor.impl.EditorImpl$EditorDocumentAdapter.documentChanged(EditorImpl.java:6604)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:757)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:696)
+	at com.intellij.openapi.editor.impl.DocumentImpl.deleteString(DocumentImpl.java:475)
+	at com.intellij.openapi.editor.actions.BackspaceAction.a(BackspaceAction.java:84)
+	at com.intellij.openapi.editor.actions.BackspaceAction.access$100(BackspaceAction.java:36)
+	at com.intellij.openapi.editor.actions.BackspaceAction$Handler.executeWriteAction(BackspaceAction.java:55)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:222)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.handleBackspace(BackspaceHandler.java:105)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.executeWriteAction(BackspaceHandler.java:61)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3$1.perform(EditorActionHandler.java:206)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.access$000(EditorActionHandler.java:38)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3.perform(EditorActionHandler.java:203)
+	at com.intellij.openapi.editor.impl.CaretModelImpl$3.run(CaretModelImpl.java:342)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.doWithCaretMerging(CaretModelImpl.java:422)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:333)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:324)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:200)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler$1.run(BackspaceHandler.java:60)
+	at com.intellij.codeInsight.lookup.impl.LookupOffsets.performGuardedChange(LookupOffsets.java:128)
+	at com.intellij.codeInsight.lookup.impl.LookupImpl.performGuardedChange(LookupImpl.java:604)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.truncatePrefix(BackspaceHandler.java:57)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.doExecute(BackspaceHandler.java:48)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$4.perform(EditorActionHandler.java:217)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:214)
+	at com.intellij.openapi.editor.actionSystem.EditorAction$1.run(EditorAction.java:98)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:83)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$3.performAction(IdeKeyEventDispatcher.java:595)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:646)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.a(IdeKeyEventDispatcher.java:485)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:215)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:622)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91338939]  ERROR - enapi.editor.impl.DocumentImpl - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91338939]  ERROR - enapi.editor.impl.DocumentImpl - JDK: 1.8.0_73 
+[91338939]  ERROR - enapi.editor.impl.DocumentImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91338939]  ERROR - enapi.editor.impl.DocumentImpl - Vendor: Oracle Corporation 
+[91338939]  ERROR - enapi.editor.impl.DocumentImpl - OS: Linux 
+[91338939]  ERROR - enapi.editor.impl.DocumentImpl - Last Action: EditorBackSpace 
+[91338939]  ERROR - enapi.editor.impl.DocumentImpl - Current Command: Backspace 
+[91338942]  ERROR - llij.ide.plugins.PluginManager - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at java.awt.Component.processEvent(Component.java:6315)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at com.intellij.ide.IdeEventQueue.e(IdeEventQueue.java:866)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:654)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91338943]  ERROR - llij.ide.plugins.PluginManager - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91338943]  ERROR - llij.ide.plugins.PluginManager - JDK: 1.8.0_73 
+[91338943]  ERROR - llij.ide.plugins.PluginManager - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91338943]  ERROR - llij.ide.plugins.PluginManager - Vendor: Oracle Corporation 
+[91338943]  ERROR - llij.ide.plugins.PluginManager - OS: Linux 
+[91338943]  ERROR - llij.ide.plugins.PluginManager - Last Action: EditorBackSpace 
+[91339439]  ERROR - enapi.editor.impl.DocumentImpl - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at com.intellij.openapi.editor.impl.EditorComponentImpl.fireResized(EditorComponentImpl.java:132)
+	at com.intellij.openapi.editor.impl.EditorImpl.validateSize(EditorImpl.java:2022)
+	at com.intellij.openapi.editor.impl.EditorImpl.a(EditorImpl.java:1921)
+	at com.intellij.openapi.editor.impl.EditorImpl.access$14600(EditorImpl.java:125)
+	at com.intellij.openapi.editor.impl.EditorImpl$EditorDocumentAdapter.documentChanged(EditorImpl.java:6604)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:757)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:696)
+	at com.intellij.openapi.editor.impl.DocumentImpl.insertString(DocumentImpl.java:451)
+	at com.intellij.openapi.editor.EditorModificationUtil.insertStringAtCaretNoScrolling(EditorModificationUtil.java:131)
+	at com.intellij.openapi.editor.EditorModificationUtil.access$000(EditorModificationUtil.java:35)
+	at com.intellij.openapi.editor.EditorModificationUtil$2.perform(EditorModificationUtil.java:349)
+	at com.intellij.openapi.editor.impl.CaretModelImpl$3.run(CaretModelImpl.java:342)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.doWithCaretMerging(CaretModelImpl.java:422)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:333)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:324)
+	at com.intellij.openapi.editor.EditorModificationUtil.typeInStringAtCaretHonorMultipleCarets(EditorModificationUtil.java:346)
+	at com.intellij.openapi.editor.EditorModificationUtil.typeInStringAtCaretHonorMultipleCarets(EditorModificationUtil.java:337)
+	at com.intellij.codeInsight.lookup.impl.LookupTypedHandler$1.run(LookupTypedHandler.java:120)
+	at com.intellij.codeInsight.lookup.impl.LookupOffsets.performGuardedChange(LookupOffsets.java:128)
+	at com.intellij.codeInsight.lookup.impl.LookupImpl.performGuardedChange(LookupImpl.java:604)
+	at com.intellij.codeInsight.lookup.impl.LookupTypedHandler.a(LookupTypedHandler.java:117)
+	at com.intellij.codeInsight.lookup.impl.LookupTypedHandler.execute(LookupTypedHandler.java:85)
+	at com.intellij.execution.impl.ConsoleViewImpl$MyTypedHandler.execute(ConsoleViewImpl.java:1355)
+	at com.intellij.openapi.editor.actionSystem.TypedAction$DefaultRawHandler$1$1.run(TypedAction.java:153)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.TypedAction$DefaultRawHandler$1.run(TypedAction.java:147)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.editor.actionSystem.TypedAction$DefaultRawHandler.execute(TypedAction.java:139)
+	at com.maddyhome.idea.vim.VimTypedActionHandler.execute(VimTypedActionHandler.java:66)
+	at com.intellij.openapi.editor.actionSystem.TypedAction.actionPerformed(TypedAction.java:133)
+	at com.intellij.openapi.editor.impl.EditorImpl.a(EditorImpl.java:1148)
+	at com.intellij.openapi.editor.impl.EditorImpl.processKeyTyped(EditorImpl.java:5396)
+	at com.intellij.openapi.editor.impl.EditorImpl$10.keyTyped(EditorImpl.java:976)
+	at java.awt.Component.processKeyEvent(Component.java:6490)
+	at javax.swing.JComponent.processKeyEvent(JComponent.java:2832)
+	at java.awt.Component.processEvent(Component.java:6312)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1954)
+	at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:806)
+	at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1074)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:945)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:771)
+	at java.awt.Component.dispatchEventImpl(Component.java:4762)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Window.dispatchEventImpl(Window.java:2750)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at com.intellij.ide.IdeEventQueue.e(IdeEventQueue.java:866)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:623)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91339441]  ERROR - enapi.editor.impl.DocumentImpl - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91339441]  ERROR - enapi.editor.impl.DocumentImpl - JDK: 1.8.0_73 
+[91339441]  ERROR - enapi.editor.impl.DocumentImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91339441]  ERROR - enapi.editor.impl.DocumentImpl - Vendor: Oracle Corporation 
+[91339442]  ERROR - enapi.editor.impl.DocumentImpl - OS: Linux 
+[91339442]  ERROR - enapi.editor.impl.DocumentImpl - Last Action: EditorBackSpace 
+[91339442]  ERROR - enapi.editor.impl.DocumentImpl - Current Command:  
+[91339451]  ERROR - llij.ide.plugins.PluginManager - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at java.awt.Component.processEvent(Component.java:6315)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at com.intellij.ide.IdeEventQueue.e(IdeEventQueue.java:866)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:654)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91339451]  ERROR - llij.ide.plugins.PluginManager - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91339451]  ERROR - llij.ide.plugins.PluginManager - JDK: 1.8.0_73 
+[91339451]  ERROR - llij.ide.plugins.PluginManager - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91339451]  ERROR - llij.ide.plugins.PluginManager - Vendor: Oracle Corporation 
+[91339451]  ERROR - llij.ide.plugins.PluginManager - OS: Linux 
+[91339451]  ERROR - llij.ide.plugins.PluginManager - Last Action: EditorBackSpace 
+[91340177]  ERROR - enapi.editor.impl.DocumentImpl - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at com.intellij.openapi.editor.impl.EditorComponentImpl.fireResized(EditorComponentImpl.java:132)
+	at com.intellij.openapi.editor.impl.EditorImpl.validateSize(EditorImpl.java:2022)
+	at com.intellij.openapi.editor.impl.EditorImpl.a(EditorImpl.java:1921)
+	at com.intellij.openapi.editor.impl.EditorImpl.access$14600(EditorImpl.java:125)
+	at com.intellij.openapi.editor.impl.EditorImpl$EditorDocumentAdapter.documentChanged(EditorImpl.java:6604)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:757)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:696)
+	at com.intellij.openapi.editor.impl.DocumentImpl.deleteString(DocumentImpl.java:475)
+	at com.intellij.openapi.editor.actions.BackspaceAction.a(BackspaceAction.java:84)
+	at com.intellij.openapi.editor.actions.BackspaceAction.access$100(BackspaceAction.java:36)
+	at com.intellij.openapi.editor.actions.BackspaceAction$Handler.executeWriteAction(BackspaceAction.java:55)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:222)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.handleBackspace(BackspaceHandler.java:105)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.executeWriteAction(BackspaceHandler.java:61)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3$1.perform(EditorActionHandler.java:206)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.access$000(EditorActionHandler.java:38)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3.perform(EditorActionHandler.java:203)
+	at com.intellij.openapi.editor.impl.CaretModelImpl$3.run(CaretModelImpl.java:342)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.doWithCaretMerging(CaretModelImpl.java:422)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:333)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:324)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:200)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler$1.run(BackspaceHandler.java:60)
+	at com.intellij.codeInsight.lookup.impl.LookupOffsets.performGuardedChange(LookupOffsets.java:128)
+	at com.intellij.codeInsight.lookup.impl.LookupImpl.performGuardedChange(LookupImpl.java:604)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.truncatePrefix(BackspaceHandler.java:57)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.doExecute(BackspaceHandler.java:48)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$4.perform(EditorActionHandler.java:217)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:214)
+	at com.intellij.openapi.editor.actionSystem.EditorAction$1.run(EditorAction.java:98)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:83)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$3.performAction(IdeKeyEventDispatcher.java:595)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:646)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.a(IdeKeyEventDispatcher.java:485)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:215)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:622)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91340178]  ERROR - enapi.editor.impl.DocumentImpl - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91340178]  ERROR - enapi.editor.impl.DocumentImpl - JDK: 1.8.0_73 
+[91340178]  ERROR - enapi.editor.impl.DocumentImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91340178]  ERROR - enapi.editor.impl.DocumentImpl - Vendor: Oracle Corporation 
+[91340178]  ERROR - enapi.editor.impl.DocumentImpl - OS: Linux 
+[91340178]  ERROR - enapi.editor.impl.DocumentImpl - Last Action: EditorBackSpace 
+[91340178]  ERROR - enapi.editor.impl.DocumentImpl - Current Command: Backspace 
+[91340185]  ERROR - llij.ide.plugins.PluginManager - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at java.awt.Component.processEvent(Component.java:6315)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at com.intellij.ide.IdeEventQueue.e(IdeEventQueue.java:866)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:654)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91340186]  ERROR - llij.ide.plugins.PluginManager - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91340186]  ERROR - llij.ide.plugins.PluginManager - JDK: 1.8.0_73 
+[91340186]  ERROR - llij.ide.plugins.PluginManager - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91340186]  ERROR - llij.ide.plugins.PluginManager - Vendor: Oracle Corporation 
+[91340186]  ERROR - llij.ide.plugins.PluginManager - OS: Linux 
+[91340186]  ERROR - llij.ide.plugins.PluginManager - Last Action: EditorBackSpace 
+[91340393]  ERROR - enapi.editor.impl.DocumentImpl - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at com.intellij.openapi.editor.impl.EditorComponentImpl.fireResized(EditorComponentImpl.java:132)
+	at com.intellij.openapi.editor.impl.EditorImpl.validateSize(EditorImpl.java:2022)
+	at com.intellij.openapi.editor.impl.EditorImpl.a(EditorImpl.java:1921)
+	at com.intellij.openapi.editor.impl.EditorImpl.access$14600(EditorImpl.java:125)
+	at com.intellij.openapi.editor.impl.EditorImpl$EditorDocumentAdapter.documentChanged(EditorImpl.java:6604)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:757)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:696)
+	at com.intellij.openapi.editor.impl.DocumentImpl.deleteString(DocumentImpl.java:475)
+	at com.intellij.openapi.editor.actions.BackspaceAction.a(BackspaceAction.java:84)
+	at com.intellij.openapi.editor.actions.BackspaceAction.access$100(BackspaceAction.java:36)
+	at com.intellij.openapi.editor.actions.BackspaceAction$Handler.executeWriteAction(BackspaceAction.java:55)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:222)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.handleBackspace(BackspaceHandler.java:105)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.executeWriteAction(BackspaceHandler.java:61)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3$1.perform(EditorActionHandler.java:206)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.access$000(EditorActionHandler.java:38)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3.perform(EditorActionHandler.java:203)
+	at com.intellij.openapi.editor.impl.CaretModelImpl$3.run(CaretModelImpl.java:342)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.doWithCaretMerging(CaretModelImpl.java:422)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:333)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:324)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:200)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler$1.run(BackspaceHandler.java:60)
+	at com.intellij.codeInsight.lookup.impl.LookupOffsets.performGuardedChange(LookupOffsets.java:128)
+	at com.intellij.codeInsight.lookup.impl.LookupImpl.performGuardedChange(LookupImpl.java:604)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.truncatePrefix(BackspaceHandler.java:57)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.doExecute(BackspaceHandler.java:48)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$4.perform(EditorActionHandler.java:217)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:214)
+	at com.intellij.openapi.editor.actionSystem.EditorAction$1.run(EditorAction.java:98)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:83)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$3.performAction(IdeKeyEventDispatcher.java:595)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:646)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.a(IdeKeyEventDispatcher.java:485)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:215)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:622)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[91340394]  ERROR - enapi.editor.impl.DocumentImpl - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[91340394]  ERROR - enapi.editor.impl.DocumentImpl - JDK: 1.8.0_73 
+[91340394]  ERROR - enapi.editor.impl.DocumentImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[91340394]  ERROR - enapi.editor.impl.DocumentImpl - Vendor: Oracle Corporation 
+[91340394]  ERROR - enapi.editor.impl.DocumentImpl - OS: Linux 
+[91340394]  ERROR - enapi.editor.impl.DocumentImpl - Last Action: EditorBackSpace 
+[91340395]  ERROR - enapi.editor.impl.DocumentImpl - Current Command: Backspace 
+[92987082]   WARN - netty.channel.nio.NioEventLoop - Selector.select() returned prematurely 512 times in a row; rebuilding selector. 
+[102972531]  ERROR - tory.GitDiffFromHistoryHandler - Could not find parent revision. Will use the path from parent revision. Current revision: zepto.validate.extend.mobile.js:55c2470b, parent hash: 0f7b9ae460ccbf686ed2dfac746ddd4a35602c19 
+java.lang.Throwable
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:115)
+	at git4idea.history.GitDiffFromHistoryHandler.createParentRevision(GitDiffFromHistoryHandler.java:226)
+	at git4idea.history.GitDiffFromHistoryHandler.findParentRevisions(GitDiffFromHistoryHandler.java:201)
+	at git4idea.history.GitDiffFromHistoryHandler.access$400(GitDiffFromHistoryHandler.java:68)
+	at git4idea.history.GitDiffFromHistoryHandler$2.run(GitDiffFromHistoryHandler.java:174)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:563)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$2.run(CoreProgressManager.java:142)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:446)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:392)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:127)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$1.run(ProgressManagerImpl.java:126)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:366)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+	at org.jetbrains.ide.PooledThreadExecutor$1$1.run(PooledThreadExecutor.java:55)
+[102972535]  ERROR - tory.GitDiffFromHistoryHandler - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[102972535]  ERROR - tory.GitDiffFromHistoryHandler - JDK: 1.8.0_73 
+[102972535]  ERROR - tory.GitDiffFromHistoryHandler - VM: Java HotSpot(TM) 64-Bit Server VM 
+[102972535]  ERROR - tory.GitDiffFromHistoryHandler - Vendor: Oracle Corporation 
+[102972535]  ERROR - tory.GitDiffFromHistoryHandler - OS: Linux 
+[108369881]   WARN - enapi.wm.impl.IdeGlassPaneImpl - Root pane is null. Event: java.awt.event.MouseEvent[MOUSE_EXITED,(700,103),absolute(1084,337),button=0,modifiers=Ctrl,extModifiers=Ctrl,clickCount=0] on win422 
+[126971307]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[176126870]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[262644694]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:17396): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:17396): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[  15414]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[2640041]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 143 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:1489): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:1489): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[  13732]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[84588003]   WARN - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 143 
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:1482): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:1482): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+WARN: 拒绝连接
+java.net.ConnectException: 拒绝连接
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.intellij.idea.SocketLock.a(SocketLock.java:183)
+	at com.intellij.idea.SocketLock.access$300(SocketLock.java:50)
+	at com.intellij.idea.SocketLock$2.call(SocketLock.java:124)
+	at com.intellij.idea.SocketLock$2.call(SocketLock.java:113)
+	at com.intellij.idea.SocketLock.a(SocketLock.java:156)
+	at com.intellij.idea.SocketLock.lock(SocketLock.java:113)
+	at com.intellij.idea.StartupUtil.a(StartupUtil.java:263)
+	at com.intellij.idea.StartupUtil.prepareAndStart(StartupUtil.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.idea.MainImpl.start(MainImpl.java:36)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.ide.plugins.PluginManager$2.run(PluginManager.java:90)
+	at java.lang.Thread.run(Thread.java:745)
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[  13992]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp
+
+(java:20222): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+
+(java:20222): Gtk-WARNING **: 无法在模块路径中找到主题引擎：“adwaita”，
+[250992252]   WARN - enapi.wm.impl.IdeGlassPaneImpl - Root pane is null. Event: java.awt.event.MouseEvent[MOUSE_EXITED,(595,80),absolute(979,312),button=0,modifiers=Ctrl,extModifiers=Ctrl,clickCount=0] on win82 
+[251000715]  ERROR - enapi.editor.impl.DocumentImpl - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at com.intellij.openapi.editor.impl.EditorComponentImpl.fireResized(EditorComponentImpl.java:132)
+	at com.intellij.openapi.editor.impl.EditorImpl.validateSize(EditorImpl.java:2022)
+	at com.intellij.openapi.editor.impl.EditorImpl.a(EditorImpl.java:1921)
+	at com.intellij.openapi.editor.impl.EditorImpl.access$14600(EditorImpl.java:125)
+	at com.intellij.openapi.editor.impl.EditorImpl$EditorDocumentAdapter.documentChanged(EditorImpl.java:6604)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:757)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:696)
+	at com.intellij.openapi.editor.impl.DocumentImpl.insertString(DocumentImpl.java:451)
+	at com.intellij.openapi.editor.EditorModificationUtil.insertStringAtCaretNoScrolling(EditorModificationUtil.java:131)
+	at com.intellij.openapi.editor.EditorModificationUtil.insertStringAtCaret(EditorModificationUtil.java:96)
+	at com.intellij.openapi.editor.EditorModificationUtil.insertStringAtCaret(EditorModificationUtil.java:88)
+	at com.intellij.codeInsight.editorActions.PasteHandler$2.run(PasteHandler.java:205)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.codeInsight.editorActions.PasteHandler.a(PasteHandler.java:201)
+	at com.intellij.codeInsight.editorActions.PasteHandler.execute(PasteHandler.java:128)
+	at com.intellij.codeInsight.editorActions.PasteHandler.doExecute(PasteHandler.java:75)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$4.perform(EditorActionHandler.java:217)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:214)
+	at com.intellij.openapi.editor.actionSystem.EditorAction$1.run(EditorAction.java:98)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:83)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$3.performAction(IdeKeyEventDispatcher.java:595)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:646)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.a(IdeKeyEventDispatcher.java:485)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:215)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:622)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[251000719]  ERROR - enapi.editor.impl.DocumentImpl - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[251000719]  ERROR - enapi.editor.impl.DocumentImpl - JDK: 1.8.0_73 
+[251000719]  ERROR - enapi.editor.impl.DocumentImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[251000719]  ERROR - enapi.editor.impl.DocumentImpl - Vendor: Oracle Corporation 
+[251000719]  ERROR - enapi.editor.impl.DocumentImpl - OS: Linux 
+[251000719]  ERROR - enapi.editor.impl.DocumentImpl - Last Action: EditorPaste 
+[251000720]  ERROR - enapi.editor.impl.DocumentImpl - Current Command: Paste 
+[251115085]   WARN - enapi.wm.impl.IdeGlassPaneImpl - Root pane is null. Event: java.awt.event.MouseEvent[MOUSE_EXITED,(753,36),absolute(1137,268),button=0,modifiers=Ctrl,extModifiers=Ctrl,clickCount=0] on win93 
+[251117272]  ERROR - enapi.editor.impl.DocumentImpl - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at com.intellij.openapi.editor.impl.EditorComponentImpl.fireResized(EditorComponentImpl.java:132)
+	at com.intellij.openapi.editor.impl.EditorImpl.validateSize(EditorImpl.java:2022)
+	at com.intellij.openapi.editor.impl.EditorImpl.a(EditorImpl.java:1921)
+	at com.intellij.openapi.editor.impl.EditorImpl.access$14600(EditorImpl.java:125)
+	at com.intellij.openapi.editor.impl.EditorImpl$EditorDocumentAdapter.documentChanged(EditorImpl.java:6604)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:757)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:696)
+	at com.intellij.openapi.editor.impl.DocumentImpl.deleteString(DocumentImpl.java:475)
+	at com.intellij.openapi.editor.actions.BackspaceAction.a(BackspaceAction.java:84)
+	at com.intellij.openapi.editor.actions.BackspaceAction.access$100(BackspaceAction.java:36)
+	at com.intellij.openapi.editor.actions.BackspaceAction$Handler.executeWriteAction(BackspaceAction.java:55)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:222)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.handleBackspace(BackspaceHandler.java:105)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.executeWriteAction(BackspaceHandler.java:61)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3$1.perform(EditorActionHandler.java:206)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.access$000(EditorActionHandler.java:38)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3.perform(EditorActionHandler.java:203)
+	at com.intellij.openapi.editor.impl.CaretModelImpl$3.run(CaretModelImpl.java:342)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.doWithCaretMerging(CaretModelImpl.java:422)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:333)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:324)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:200)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler$1.run(BackspaceHandler.java:60)
+	at com.intellij.codeInsight.lookup.impl.LookupOffsets.performGuardedChange(LookupOffsets.java:128)
+	at com.intellij.codeInsight.lookup.impl.LookupImpl.performGuardedChange(LookupImpl.java:604)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.truncatePrefix(BackspaceHandler.java:57)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.doExecute(BackspaceHandler.java:48)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$4.perform(EditorActionHandler.java:217)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:214)
+	at com.intellij.openapi.editor.actionSystem.EditorAction$1.run(EditorAction.java:98)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:83)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$3.performAction(IdeKeyEventDispatcher.java:595)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:646)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.a(IdeKeyEventDispatcher.java:485)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:215)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:622)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[251117274]  ERROR - enapi.editor.impl.DocumentImpl - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[251117274]  ERROR - enapi.editor.impl.DocumentImpl - JDK: 1.8.0_73 
+[251117274]  ERROR - enapi.editor.impl.DocumentImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[251117274]  ERROR - enapi.editor.impl.DocumentImpl - Vendor: Oracle Corporation 
+[251117274]  ERROR - enapi.editor.impl.DocumentImpl - OS: Linux 
+[251117275]  ERROR - enapi.editor.impl.DocumentImpl - Last Action: EditorBackSpace 
+[251117275]  ERROR - enapi.editor.impl.DocumentImpl - Current Command: Backspace 
+[253615565]   WARN - enapi.wm.impl.IdeGlassPaneImpl - Root pane is null. Event: java.awt.event.MouseEvent[MOUSE_EXITED,(633,48),absolute(1017,280),button=0,modifiers=Ctrl,extModifiers=Ctrl,clickCount=0] on win160 
+[253617187]  ERROR - enapi.editor.impl.DocumentImpl - component must be showing on the screen to determine its location 
+java.awt.IllegalComponentStateException: component must be showing on the screen to determine its location
+	at java.awt.Component.getLocationOnScreen_NoTreeLock(Component.java:2064)
+	at java.awt.Component.getLocationOnScreen(Component.java:2038)
+	at com.intellij.ui.popup.AbstractPopup.getLocationOnScreen(AbstractPopup.java:1560)
+	at com.intellij.ui.LightweightHint.getLocationOn(LightweightHint.java:425)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:264)
+	at com.intellij.codeInsight.hint.HintManagerImpl.a(HintManagerImpl.java:229)
+	at com.intellij.codeInsight.hint.HintManagerImpl.access$300(HintManagerImpl.java:56)
+	at com.intellij.codeInsight.hint.HintManagerImpl$3.visibleAreaChanged(HintManagerImpl.java:131)
+	at com.intellij.openapi.editor.impl.ScrollingModelImpl$1.stateChanged(ScrollingModelImpl.java:84)
+	at javax.swing.JViewport.fireStateChanged(JViewport.java:1369)
+	at javax.swing.JViewport$ViewListener.componentResized(JViewport.java:1288)
+	at java.awt.Component.processComponentEvent(Component.java:6361)
+	at com.intellij.openapi.editor.impl.EditorComponentImpl.fireResized(EditorComponentImpl.java:132)
+	at com.intellij.openapi.editor.impl.EditorImpl.validateSize(EditorImpl.java:2022)
+	at com.intellij.openapi.editor.impl.EditorImpl.a(EditorImpl.java:1921)
+	at com.intellij.openapi.editor.impl.EditorImpl.access$14600(EditorImpl.java:125)
+	at com.intellij.openapi.editor.impl.EditorImpl$EditorDocumentAdapter.documentChanged(EditorImpl.java:6604)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:757)
+	at com.intellij.openapi.editor.impl.DocumentImpl.a(DocumentImpl.java:696)
+	at com.intellij.openapi.editor.impl.DocumentImpl.deleteString(DocumentImpl.java:475)
+	at com.intellij.openapi.editor.actions.BackspaceAction.a(BackspaceAction.java:84)
+	at com.intellij.openapi.editor.actions.BackspaceAction.access$100(BackspaceAction.java:36)
+	at com.intellij.openapi.editor.actions.BackspaceAction$Handler.executeWriteAction(BackspaceAction.java:55)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:222)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.handleBackspace(BackspaceHandler.java:105)
+	at com.intellij.codeInsight.editorActions.BackspaceHandler.executeWriteAction(BackspaceHandler.java:61)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler$1.run(EditorWriteActionHandler.java:56)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1010)
+	at com.intellij.openapi.editor.actionSystem.EditorWriteActionHandler.doExecute(EditorWriteActionHandler.java:49)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3$1.perform(EditorActionHandler.java:206)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.access$000(EditorActionHandler.java:38)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$3.perform(EditorActionHandler.java:203)
+	at com.intellij.openapi.editor.impl.CaretModelImpl$3.run(CaretModelImpl.java:342)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.doWithCaretMerging(CaretModelImpl.java:422)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:333)
+	at com.intellij.openapi.editor.impl.CaretModelImpl.runForEachCaret(CaretModelImpl.java:324)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:200)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler$1.run(BackspaceHandler.java:60)
+	at com.intellij.codeInsight.lookup.impl.LookupOffsets.performGuardedChange(LookupOffsets.java:128)
+	at com.intellij.codeInsight.lookup.impl.LookupImpl.performGuardedChange(LookupImpl.java:604)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.truncatePrefix(BackspaceHandler.java:57)
+	at com.intellij.codeInsight.lookup.impl.BackspaceHandler.doExecute(BackspaceHandler.java:48)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler$4.perform(EditorActionHandler.java:217)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.doIfEnabled(EditorActionHandler.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorActionHandler.execute(EditorActionHandler.java:214)
+	at com.intellij.openapi.editor.actionSystem.EditorAction$1.run(EditorAction.java:98)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:124)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:109)
+	at com.intellij.openapi.editor.actionSystem.EditorAction.actionPerformed(EditorAction.java:83)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$3.performAction(IdeKeyEventDispatcher.java:595)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:646)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.a(IdeKeyEventDispatcher.java:485)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:215)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:622)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:381)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[253617189]  ERROR - enapi.editor.impl.DocumentImpl - IntelliJ IDEA 15.0.4  Build #IU-143.2287.1 
+[253617189]  ERROR - enapi.editor.impl.DocumentImpl - JDK: 1.8.0_73 
+[253617189]  ERROR - enapi.editor.impl.DocumentImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[253617189]  ERROR - enapi.editor.impl.DocumentImpl - Vendor: Oracle Corporation 
+[253617189]  ERROR - enapi.editor.impl.DocumentImpl - OS: Linux 
+[253617189]  ERROR - enapi.editor.impl.DocumentImpl - Last Action: EditorBackSpace 
+[253617189]  ERROR - enapi.editor.impl.DocumentImpl - Current Command: Backspace 
+[255875189]   WARN - api.vfs.impl.local.FileWatcher - The current <b>inotify</b>(7) watch limit is too low. <a href="https://confluence.jetbrains.com/display/IDEADEV/Inotify+Watches+Limit">More details.</a> 
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/ReferenceData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.ReferenceData
+Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/ReferenceData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.ReferenceData
+[272454579]   WARN - ution.rmi.RemoteProcessSupport - Picked up _JAVA_OPTIONS:   -Dawt.useSystemAAFontSettings=gasp 
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+[WARNING] The artifact jstl:jstl:jar:1.1.2 has been relocated to javax.servlet:jstl:jar:1.1.2
+To git@github.com:as12334/gb-data.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from git@github.com:as12334/gb-data.git.

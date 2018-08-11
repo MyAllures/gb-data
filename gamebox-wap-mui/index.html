@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<title>gamebox</title>
+		<script src="js/mui.min.js" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" type="text/css" href="css/mui.css" />
+		<style type="text/css">
+			border-color: #2f2f2f;
+			background-color: #444;
+		</style>
+		<script type="text/javascript">
+		</script>
+		<script>
+			mui.init()
+		</script>
+	</head>
+
+	<body>
+		<div id="offCanvasWrapper" class="mui-off-canvas-wrap mui-draggable">
+
+			<aside class="mui-off-canvas-left">
+				<div class="mui-scroll-wrapper mui-black">
+					<div class="mui-scroll">
+						<!-- 菜单具体展示内容 -->
+						<!--						<header class="mui-bar mui-bar-nav" style="">
+							--<a class="mui-icon mui-action-menu mui-icon-bars mui-pull-left"></a>--
+							<h1 class="mui-title">导航</h1>
+						</header>-->
+						<ul class="mui-table-view mui-table-view-chevron mui-table-view-inverted">
+							<li class="mui-table-view-cell">
+								<a class="mui-navigate-right">
+									首页
+								</a>
+							</li>
+							<li class="mui-table-view-cell">
+								<a class="mui-navigate-right">
+									真人视讯
+								</a>
+							</li>
+							<li class="mui-table-view-cell">
+								<a class="mui-navigate-right">
+									体育赛事
+								</a>
+							</li>
+							<li class="mui-table-view-cell">
+								<a class="mui-navigate-right">
+									电子游艺
+								</a>
+							</li>
+							<li class="mui-table-view-cell">
+								<a class="mui-navigate-right">
+									彩票投注
+								</a>
+							</li>
+							<li class="mui-table-view-cell">
+								<a class="mui-navigate-right">
+									优惠活动(最后做)
+								</a>
+							</li>
+							<li class="mui-table-view-cell">
+								<a class="mui-navigate-right">
+									app下载(最后做)
+								</a>
+							</li>
+							<li class="mui-table-view-cell">
+								<a class="mui-navigate-right">
+									电脑版
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-collapse">
+								<a class="mui-navigate-right" href="#">语言</a>
+								<ul class="mui-table-view mui-table-view-chevron mui-table-view-inverted">
+									<li class="mui-table-view-cell">
+										<a class="mui-navigate-right" href="#">简体中文</a>
+									</li>
+									<li class="mui-table-view-cell">
+										<a class="mui-navigate-right" href="#">English</a>
+									</li>
+								</ul>
+							</li>
+
+						</ul>
+					</div>
+				</div>
+			</aside>
+
+			<!--个人信息-->
+			<aside class="mui-off-canvas-right">
+				<div class="mui-scroll-wrapper">
+					<div class="mui-scroll">
+						<img src="http://811.cc/jsp/ogmember/wap/res/img/tx.png" />
+						
+						<div class="mui-button-row">
+							<div class="mui-btn mui-btn-primary">
+								登录
+							</div>
+							<button type="button" class="mui-btn mui-btn-primary mui-btn-outlined">
+								注册
+							</button>
+						</div>
+						<h2 style="color: #ffffff;">帮助</h2>
+						<ul class="mui-table-view mui-table-view-inverted">						
+							<li class="mui-table-view-cell">常见问题</li>
+							<li class="mui-table-view-cell">关于我们</li>
+							<li class="mui-table-view-cell">条款声明</li>
+						</ul>
+					</div>
+				</div>
+			</aside>
+
+
+			<!-- 主页面容器 -->
+			<div class="mui-inner-wrap">
+				<!-- 主页面标题 -->
+				<header class="mui-bar mui-bar-nav">
+					<a class="mui-icon mui-action-menu mui-icon-bars mui-pull-left"></a>
+					<h1 class="mui-title">gamebox</h1>
+					<a class="mui-icon mui-action-menu mui-icon-contact mui-pull-right"></a>
+				</header>
+				<!--底部-->
+				<nav class="mui-bar mui-bar-tab">
+					<a class="mui-tab-item mui-active">
+						<span class="mui-icon mui-icon-person"></span>
+						<span class="mui-tab-label">登录</span>
+					</a>
+					<a class="mui-tab-item">
+						<span class="mui-icon mui-icon-phone"></span>
+						<span class="mui-tab-label">注册</span>
+					</a>
+					<a class="mui-tab-item">
+						<span class="mui-icon mui-icon-chat"></span>
+						<span class="mui-tab-label">客服</span>
+					</a>
+					<a class="mui-tab-item">
+						<span class="mui-icon mui-icon-gear"></span>
+						<span class="mui-tab-label">密码(最后做)</span>
+					</a>
+				</nav>
+				<nav class="mui-bar mui-bar-tab" id="login">
+					<a class="mui-tab-item mui-active">
+						<span class="mui-icon mui-icon-home"></span>
+						<span class="mui-tab-label">资金</span>
+					</a>
+					<a class="mui-tab-item">
+						<span class="mui-icon mui-icon-phone"></span>
+						<span class="mui-tab-label">转账</span>
+					</a>
+					<a class="mui-tab-item">
+						<span class="mui-icon mui-icon-chat"></span>
+						<span class="mui-tab-label">客服</span>
+					</a>
+					<a class="mui-tab-item">
+						<span class="mui-icon mui-icon-contact"></span>
+						<span class="mui-tab-label">我的</span>
+					</a>
+				</nav>
+				<div class="mui-content mui-scroll-wrapper">
+
+					<div class="mui-scroll">
+						<div class="mui-slider">
+							<div class="mui-slider-group mui-slider-loop">
+								<!--支持循环，需要重复图片节点-->
+								<div class="mui-slider-item mui-slider-item-duplicate">
+									<a href="#"><img src="http://placehold.it/400x300" /></a>
+								</div>
+								<div class="mui-slider-item">
+									<a href="#"><img src="http://placehold.it/400x300" /></a>
+								</div>
+								<div class="mui-slider-item">
+									<a href="#"><img src="http://placehold.it/400x300" /></a>
+								</div>
+								<div class="mui-slider-item">
+									<a href="#"><img src="http://placehold.it/400x300" /></a>
+								</div>
+								<div class="mui-slider-item">
+									<a href="#"><img src="http://placehold.it/400x300" /></a>
+								</div>
+								<!--支持循环，需要重复图片节点-->
+								<div class="mui-slider-item mui-slider-item-duplicate">
+									<a href="#"><img src="http://placehold.it/400x300" /></a>
+								</div>
+							</div>
+						</div>
+						
+							
+						<!--列表-->
+						<ul class="mui-table-view mui-grid-view">
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c1img_hgty.png">
+									<div class="mui-media-body">幸福就是可以一起睡觉</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c1img_hgty.png">
+									<div class="mui-media-body">想要一间这样的木屋，静静的喝咖啡</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c1img_hgty.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c1img_hgty.png">
+									<div class="mui-media-body">静静看这世界</div>
+								</a>
+							</li>
+
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_lhc.png">
+									<div class="mui-media-body">幸福就是可以一起睡觉</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_lhc.png">
+									<div class="mui-media-body">想要一间这样的木屋，静静的喝咖啡</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_lhc.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_lhc.png">
+									<div class="mui-media-body">静静看这世界</div>
+								</a>
+							</li>
+
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_ssc_cq.png">
+									<div class="mui-media-body">幸福就是可以一起睡觉</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_ssc_cq.png">
+									<div class="mui-media-body">想要一间这样的木屋，静静的喝咖啡</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_ssc_cq.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_ssc_cq.png">
+									<div class="mui-media-body">静静看这世界</div>
+								</a>
+							</li>
+
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_ssc_tj.png">
+									<div class="mui-media-body">幸福就是可以一起睡觉</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_ssc_tj.png">
+									<div class="mui-media-body">想要一间这样的木屋，静静的喝咖啡</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_ssc_tj.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_ssc_tj.png">
+									<div class="mui-media-body">静静看这世界</div>
+								</a>
+							</li>
+
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">幸福就是可以一起睡觉</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">想要一间这样的木屋，静静的喝咖啡</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#"><img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c2img_pk10.png">
+									<div class="mui-media-body">Color of SIP CBD</div>
+								</a>
+							</li>
+							<li class="mui-table-view-cell mui-media mui-col-xs-3">
+								<a href="#">
+									<img class="mui-media-object" src="http://811.cc/jsp/ogmember/wap/res/img/game/c1img_hgty.png">
+									<div class="mui-media-body">静静看这世界</div>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+	</body>
+	<script>
+		mui('.mui-scroll-wrapper').scroll();
+	</script>
+
+</html>
